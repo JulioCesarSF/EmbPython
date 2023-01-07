@@ -1,0 +1,7 @@
+﻿C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.h(90,48): warning C4312: 'reinterpret_cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.h(103,1): warning C4312: 'reinterpret_cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.h(103,1): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.h(115,50): warning C4312: 'reinterpret_cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.h(131,1): warning C4312: 'reinterpret_cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.cpp(55,33): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\schin\Documents\GitHub\EmbPython\EmbPython\main.cpp(58,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
